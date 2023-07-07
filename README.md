@@ -13,4 +13,5 @@ Goal: The purpose of the notebook is to clean the data, prepare a dash app to se
 
 References:
 Data set - [Kaggel](https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years)
+
 https://www.kaggle.com/code/antonaks/mass-shooting-in-us-using-plotly

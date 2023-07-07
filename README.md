@@ -1,7 +1,7 @@
 # Data Analysis on US Mass Shooting
-## Used plotly interactive charts and dash to create interactive dashboard
+### Used Plotly interactive charts and dash to create an interactive dashboard
 
-I am working on US Mass Shooting data that has been taken from Kaggle. The data is from 1966 to 2017 comprising of upto 50 years worth of data.
+I am working on US Mass Shooting data that has been taken from Kaggle. The data is from 1966 to 2017 comprising up to 50 years worth of data.
 
 The US has witnessed 398 mass shootings in last 50 years that resulted in 1,996 deaths and 2,488 injured. The latest and the worst mass shooting of October 2, 2017 killed 58 and injured 515 so far. The number of people injured in this attack is more than the number of people injured in all mass shootings of 2015 and 2016 combined.
 

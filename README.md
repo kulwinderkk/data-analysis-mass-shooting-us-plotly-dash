@@ -18,7 +18,7 @@ https://github.com/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash/assets
 **Note:**
 In this repository there are the following files:-
 1. Mass Shootings Dataset Ver 5.csv (Raw data downloaded from Kaggle.
-2. US mass shooting data analysis-fin-ver (Jupyter Notebook) *Please note that this notebook has interactive plotly charts that are not rendered on Github. So in order to see the charts this notebook can be accessed on [nbviewer](https://nbviewer.org/github/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash/blob/main/US%20mass%20shooting%20data%20analysis-fin-ver.ipynb)
+2. US mass shooting data analysis-fin-ver (Jupyter Notebook) *Please note that this notebook has interactive plotly charts that are not rendered on Github. So in order to see the charts this notebook can be accessed on [nbviewer](https://nbviewer.org/github/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash/blob/main/US%20mass%20shooting%20data%20analysis-fin-ver.ipynb).
 3. app.py is a Python script to create a Dash app. This app can be run locally through your terminal, put in the default local host ip and port (http://127.0.0.1:8050/) in any browser.
 4. cleaned_out.csv is the cleaned data set after data cleaning and wrangling.
 

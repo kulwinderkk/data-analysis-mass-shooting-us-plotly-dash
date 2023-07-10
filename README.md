@@ -11,6 +11,12 @@ Variables: The dataset contains Serial No, Title, Location, Date, Summary, Fatal
 
 Goal: The purpose of the notebook is to clean the data, prepare a dash app to see the trend, and understand the geographical impact, impact in terms of lost lives, and the shooter's health condition and demographic information. Also, I am aiming to prepare different kinds of plotly charts to have a broader view of the data.
 
+Dash app demo - 
+
+https://github.com/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash/assets/119710277/927bc0bc-b5ed-48c1-afc1-f52cfd9fb964
+
+
+
 References:
 Data set - [Kaggel](https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years)
 
